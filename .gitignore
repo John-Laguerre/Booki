@@ -1,0 +1,6 @@
+# Fichiers à ignorer
+.DS_Store
+*.log
+
+# Dossiers à ignorer
+node_modules/
